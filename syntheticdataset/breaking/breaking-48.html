@@ -1,0 +1,42 @@
+<h1 style="color: #5e9ca0;">Visual Discrimination Puzzle breaking-48</h1>
+
+<p> Train: <br>
+<div class="row">
+  <div class="column">
+<img src="../images/breaking-48/CLEVR_breaking-48_000003.png" style="width:300">&nbsp;
+&nbsp;
+&nbsp;<img src="../images/breaking-48/CLEVR_breaking-48_000004.png" style="width:300">&nbsp;
+&nbsp;
+&nbsp;<img src="../images/breaking-48/CLEVR_breaking-48_000005.png" style="width:300">
+  </div>
+</div>
+</p>
+
+&nbsp; <br>
+&nbsp; <br>
+&nbsp; <br>
+
+
+<p> Candidates: 0, 1, 2 <br>
+<div class="row">
+  <div class="column">
+<img src="../images/breaking-48/CLEVR_breaking-48_000000.png" style="width:300">&nbsp;
+&nbsp;
+&nbsp;<img src="../images/breaking-48/CLEVR_breaking-48_000001.png" style="width:300">&nbsp;
+&nbsp;
+&nbsp;<img src="../images/breaking-48/CLEVR_breaking-48_000002.png" style="width:300">
+  </div>
+</div>
+</p>
+
+<br>
+Which candidate among the above candidates is most similar to all the training images? Explain why.
+<hr>
+
+<p>
+Intended concept: There are two spheres in a line with the same color. <br>
+Solution provided by tool: <br>
+Our tool chose candidate 0.<br>
+The discriminator given was: Forall q0: sphere!0. Exists q1: sphere!1. And(same_color!0!1 same_color!1!0)<br>
+The neural baseline model chose candidate 1
+</p>
