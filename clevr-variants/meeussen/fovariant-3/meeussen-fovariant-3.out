@@ -1,0 +1,19 @@
+Candidate: c2
+Concept: Exists q0: sphere!0. Forall q1: cube!1. And(right!0!1 blue!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/meeussen-fovariant-3/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cube!0. Exists q1: sphere!1. And(right!1!0 blue!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/meeussen-fovariant-3/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cube!0. Exists q1: sphere!1. And(blue!1 left!0!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/meeussen-fovariant-3/test/0.json
+
+Candidate: c2
+Concept: Exists q0: sphere!0. Forall q1: cube!1. And(blue!0 left!1!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/meeussen-fovariant-3/test/0.json
+
+No discriminator found for puzzle /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/meeussen-fovariant-3.
+The scores were [0.018774042925576273, 0.014270651907037716, 0.015325790058680818].
+Best concept is @ idx 1 ie: /home/ubuntu/vdp-tool-chain-repo/data/output/images/meeussen-fovariant-3/CLEVR_meeussen-fovariant-3_000001.png

@@ -1,0 +1,195 @@
+Candidate: c2
+Concept: Exists q0: cube!0. Forall q1: cube!1. Exists q2: cube!2. And(same_color!1!2 left!2!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-18/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cube!0. Exists q1: cube!1. Exists q2: cube!2. And(same_color!1!0 right!2!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-18/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cube!0. Exists q1: cube!1. Exists q2: cube!2. And(same_color!1!0 right!1!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-18/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cube!0. Exists q1: cube!1. Exists q2: cube!2. And(same_color!0!1 right!1!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-18/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cube!0. Exists q1: cube!1. Exists q2: cube!2. And(same_color!1!0 left!2!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-18/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cube!0. Exists q1: cube!1. Exists q2: cube!2. And(same_color!0!1 left!2!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-18/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cube!0. Exists q1: cube!1. Exists q2: cube!2. And(same_color!0!2 right!1!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-18/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cube!0. Exists q1: cube!1. Exists q2: cube!2. And(same_color!0!2 left!2!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-18/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cube!0. Exists q1: cube!1. Exists q2: cube!2. And(same_color!2!0 right!1!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-18/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cube!0. Exists q1: cube!1. Exists q2: cube!2. And(same_color!2!0 left!2!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-18/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Forall q1: cube!1. Exists q2: cube!2. And(same_color!1!2 left!0!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-18/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Forall q1: cube!1. Exists q2: cube!2. And(same_color!1!2 disequal!0!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-18/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Forall q1: cube!1. Exists q2: cube!2. And(same_color!1!2 disequal!2!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-18/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Forall q1: cube!1. Exists q2: cube!2. And(same_color!2!1 left!0!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-18/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Forall q1: cube!1. Exists q2: cube!2. And(same_color!2!1 disequal!0!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-18/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Forall q1: cube!1. Exists q2: cube!2. And(same_color!2!1 disequal!2!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-18/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Forall q1: cube!1. Exists q2: cube!2. And(same_color!2!1 right!2!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-18/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Forall q1: cube!1. Exists q2: cube!2. And(same_color!1!2 right!2!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-18/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cube!0. Forall q1: cube!1. Exists q2: cube!2. And(same_color!1!2 disequal!0!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-18/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cube!0. Forall q1: cube!1. Exists q2: cube!2. And(same_color!1!2 disequal!2!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-18/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cube!0. Forall q1: cube!1. Exists q2: cube!2. And(same_color!2!1 disequal!0!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-18/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cube!0. Forall q1: cube!1. Exists q2: cube!2. And(same_color!2!1 disequal!2!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-18/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Forall q1: cube!1. Exists q2: cube!2. And(same_color!1!2 right!0!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-18/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cube!0. Exists q1: cube!1. Exists q2: cube!2. And(same_color!2!0 right!2!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-18/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cube!0. Exists q1: cube!1. Exists q2: cube!2. And(same_color!0!1 left!1!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-18/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cube!0. Exists q1: cube!1. Exists q2: cube!2. And(same_color!0!1 right!2!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-18/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cube!0. Exists q1: cube!1. Exists q2: cube!2. And(same_color!2!0 left!1!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-18/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cube!0. Exists q1: cube!1. Exists q2: cube!2. And(same_color!0!2 left!1!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-18/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cube!0. Exists q1: cube!1. Exists q2: cube!2. And(same_color!0!2 right!2!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-18/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cube!0. Exists q1: cube!1. Exists q2: cube!2. And(same_color!1!0 left!1!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-18/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Forall q1: cube!1. Exists q2: cube!2. And(same_color!1!2 same_color!2!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-18/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Forall q1: cube!1. Exists q2: cube!2. And(same_color!2!0 same_color!2!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-18/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Forall q1: cube!1. Exists q2: cube!2. And(same_color!2!0 disequal!1!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-18/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Forall q1: cube!1. Exists q2: cube!2. And(same_color!2!0 disequal!2!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-18/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Forall q1: cube!1. Exists q2: cube!2. And(same_color!0!2 disequal!1!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-18/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Forall q1: cube!1. Exists q2: cube!2. And(same_color!0!2 disequal!2!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-18/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Forall q1: cube!1. Exists q2: cube!2. And(same_color!0!2 same_color!1!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-18/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Forall q1: cube!1. Exists q2: cube!2. And(same_color!0!2 same_color!2!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-18/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cube!0. Forall q1: cube!1. Exists q2: cube!2. And(same_color!1!2 same_color!2!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-18/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cube!0. Forall q1: cube!1. Exists q2: cube!2. And(same_color!0!2 same_color!1!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-18/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cube!0. Forall q1: cube!1. Exists q2: cube!2. And(same_color!2!0 same_color!2!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-18/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cube!0. Forall q1: cube!1. Exists q2: cube!2. And(same_color!0!2 same_color!2!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-18/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cube!0. Forall q1: cube!1. Exists q2: cube!2. And(same_color!2!0 disequal!1!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-18/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cube!0. Forall q1: cube!1. Exists q2: cube!2. And(same_color!0!2 disequal!1!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-18/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cube!0. Forall q1: cube!1. Exists q2: cube!2. And(same_color!2!0 disequal!2!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-18/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cube!0. Forall q1: cube!1. Exists q2: cube!2. And(same_color!0!2 disequal!2!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-18/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Forall q1: cube!1. Exists q2: cube!2. And(same_color!2!1 right!0!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-18/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Forall q1: cube!1. Exists q2: cube!2. And(same_color!2!1 left!2!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-18/test/0.json
+
+No discriminator found for puzzle /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-18.
+The scores were [0.07480288982778653, 0.07257616171653757, 0.028559315594082348].
+Best concept is @ idx 2 ie: /home/ubuntu/vdp-tool-chain-repo/data/output/images/threepack-fovariant-18/CLEVR_threepack-fovariant-18_000002.png

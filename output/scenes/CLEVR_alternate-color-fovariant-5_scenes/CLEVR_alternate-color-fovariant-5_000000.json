@@ -1,0 +1,95 @@
+{
+  "split": "alternate-color-fovariant-5",
+  "objects": [
+    {
+      "pixel_coords": [
+        165,
+        146,
+        11.063642501831055
+      ],
+      "shape": "cylinder",
+      "color": "yellow",
+      "material": "metal",
+      "rotation": 0.0,
+      "3d_coords": [
+        -1.0099999904632568,
+        -1.2200000286102295,
+        0.3499999940395355
+      ],
+      "size": "small"
+    },
+    {
+      "pixel_coords": [
+        302,
+        150,
+        10.918810844421387
+      ],
+      "shape": "cylinder",
+      "color": "gray",
+      "material": "metal",
+      "rotation": 0.0,
+      "3d_coords": [
+        1.0,
+        0.8399999737739563,
+        0.3499999940395355
+      ],
+      "size": "small"
+    }
+  ],
+  "image_filename": "CLEVR_alternate-color-fovariant-5_000000.png",
+  "relationships": {
+    "left": [
+      [],
+      [
+        0
+      ]
+    ],
+    "behind": [
+      [],
+      []
+    ],
+    "right": [
+      [
+        1
+      ],
+      []
+    ],
+    "front": [
+      [],
+      []
+    ]
+  },
+  "image_index": 0,
+  "directions": {
+    "behind": [
+      -0.754490315914154,
+      0.6563112735748291,
+      0.0
+    ],
+    "front": [
+      0.754490315914154,
+      -0.6563112735748291,
+      -0.0
+    ],
+    "left": [
+      -0.6563112735748291,
+      -0.7544902563095093,
+      0.0
+    ],
+    "right": [
+      0.6563112735748291,
+      0.7544902563095093,
+      -0.0
+    ],
+    "above": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "below": [
+      -0.0,
+      -0.0,
+      -1.0
+    ]
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "objects": [
+    {
+      "3d_coords": [
+        -1.5099999904632568,
+        -1.5,
+        0.3499999940395355
+      ],
+      "rotation": 0.0,
+      "pixel_coords": [
+        141,
+        142,
+        11.23396110534668
+      ],
+      "size": "small",
+      "color": "purple",
+      "shape": "cylinder",
+      "material": "rubber"
+    },
+    {
+      "3d_coords": [
+        0.03999999910593033,
+        0.05000000074505806,
+        0.699999988079071
+      ],
+      "rotation": 0.0,
+      "pixel_coords": [
+        243,
+        130,
+        10.933954238891602
+      ],
+      "size": "large",
+      "color": "blue",
+      "shape": "sphere",
+      "material": "metal"
+    },
+    {
+      "3d_coords": [
+        1.5,
+        1.5299999713897705,
+        0.3499999940395355
+      ],
+      "rotation": 0.0,
+      "pixel_coords": [
+        342,
+        148,
+        10.985370635986328
+      ],
+      "size": "small",
+      "color": "purple",
+      "shape": "cylinder",
+      "material": "rubber"
+    }
+  ],
+  "image_index": 4,
+  "image_filename": "CLEVR_circle-at-ends-fovariant-17_000004.png",
+  "directions": {
+    "below": [
+      -0.0,
+      -0.0,
+      -1.0
+    ],
+    "left": [
+      -0.6563112735748291,
+      -0.7544902563095093,
+      0.0
+    ],
+    "behind": [
+      -0.754490315914154,
+      0.6563112735748291,
+      0.0
+    ],
+    "front": [
+      0.754490315914154,
+      -0.6563112735748291,
+      -0.0
+    ],
+    "above": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "right": [
+      0.6563112735748291,
+      0.7544902563095093,
+      -0.0
+    ]
+  },
+  "relationships": {
+    "left": [
+      [],
+      [
+        0
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    "behind": [
+      [],
+      [],
+      [
+        0
+      ]
+    ],
+    "front": [
+      [
+        2
+      ],
+      [],
+      []
+    ],
+    "right": [
+      [
+        1,
+        2
+      ],
+      [
+        2
+      ],
+      []
+    ]
+  },
+  "split": "circle-at-ends-fovariant-17"
+}

@@ -1,0 +1,51 @@
+Candidate: c2
+Concept: Forall q0: sphere!0. Exists q1: cube!1. Forall q2: cube!2. And(right!2!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/aphaeresis-fovariant-24/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Exists q1: cube!1. Forall q2: cube!2. And(left!0!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/aphaeresis-fovariant-24/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Exists q1: sphere!1. Forall q2: cube!2. And(right!2!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/aphaeresis-fovariant-24/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Exists q1: sphere!1. Forall q2: cube!2. And(left!1!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/aphaeresis-fovariant-24/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Forall q1: cube!1. Forall q2: sphere!2. And(right!1!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/aphaeresis-fovariant-24/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Forall q1: cube!1. Forall q2: sphere!2. And(left!2!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/aphaeresis-fovariant-24/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Forall q1: sphere!1. Forall q2: cube!2. And(left!1!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/aphaeresis-fovariant-24/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Forall q1: sphere!1. Forall q2: cube!2. And(right!2!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/aphaeresis-fovariant-24/test/0.json
+
+Candidate: c2
+Concept: Exists q0: sphere!0. Exists q1: cube!1. Forall q2: cube!2. And(left!0!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/aphaeresis-fovariant-24/test/0.json
+
+Candidate: c2
+Concept: Exists q0: sphere!0. Exists q1: cube!1. Forall q2: cube!2. And(right!2!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/aphaeresis-fovariant-24/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Forall q1: cube!1. Exists q2: sphere!2. And(right!1!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/aphaeresis-fovariant-24/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Forall q1: cube!1. Exists q2: sphere!2. And(left!2!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/aphaeresis-fovariant-24/test/0.json
+
+No discriminator found for puzzle /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/aphaeresis-fovariant-24.
+The scores were [0.7890453752419204, 0.386461492357748, 0.047039887785651845].
+Best concept is @ idx 2 ie: /home/ubuntu/vdp-tool-chain-repo/data/output/images/aphaeresis-fovariant-24/CLEVR_aphaeresis-fovariant-24_000002.png

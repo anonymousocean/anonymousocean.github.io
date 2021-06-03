@@ -1,0 +1,19 @@
+Candidate: c2
+Concept: Forall q0: sphere!0. Exists q1: cylinder!1. And(right!1!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/shield-fovariant-22/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Exists q1: cylinder!1. And(left!0!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/shield-fovariant-22/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cylinder!0. Forall q1: sphere!1. And(right!0!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/shield-fovariant-22/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cylinder!0. Forall q1: sphere!1. And(left!1!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/shield-fovariant-22/test/0.json
+
+No discriminator found for puzzle /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/shield-fovariant-22.
+The scores were [0.28655675804931774, 0.06469334676222102, 0.09472309088469257].
+Best concept is @ idx 1 ie: /home/ubuntu/vdp-tool-chain-repo/data/output/images/shield-fovariant-22/CLEVR_shield-fovariant-22_000001.png

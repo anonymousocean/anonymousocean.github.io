@@ -1,0 +1,39 @@
+Candidate: c2
+Concept: Exists q0: cube!0. Exists q1: cylinder!1. And(behind!1!0 rubber!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/spy-fovariant-3/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cylinder!0. Exists q1: cube!1. And(front!1!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/spy-fovariant-3/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cylinder!0. Exists q1: cube!1. And(behind!0!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/spy-fovariant-3/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Exists q1: cylinder!1. And(front!0!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/spy-fovariant-3/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Exists q1: cylinder!1. And(behind!1!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/spy-fovariant-3/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cube!0. Exists q1: cylinder!1. And(front!0!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/spy-fovariant-3/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cube!0. Exists q1: cylinder!1. And(behind!1!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/spy-fovariant-3/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cylinder!0. Forall q1: cube!1. And(front!1!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/spy-fovariant-3/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cylinder!0. Forall q1: cube!1. And(behind!0!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/spy-fovariant-3/test/0.json
+
+No discriminator found for puzzle /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/spy-fovariant-3.
+The scores were [0.04514903528762934, 0.34116770943997987, 0.049318404736362786].
+Best concept is @ idx 0 ie: /home/ubuntu/vdp-tool-chain-repo/data/output/images/spy-fovariant-3/CLEVR_spy-fovariant-3_000000.png

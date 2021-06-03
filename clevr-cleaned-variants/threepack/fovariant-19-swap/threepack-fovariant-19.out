@@ -1,0 +1,195 @@
+Candidate: c2
+Concept: Forall q0: sphere!0. Exists q1: sphere!1. Exists q2: sphere!2. And(left!1!2 same_color!1!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-19/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Exists q1: sphere!1. Exists q2: sphere!2. And(left!2!1 same_color!2!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-19/test/0.json
+
+Candidate: c2
+Concept: Exists q0: sphere!0. Forall q1: sphere!1. Exists q2: sphere!2. And(same_color!1!2 disequal!0!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-19/test/0.json
+
+Candidate: c2
+Concept: Exists q0: sphere!0. Forall q1: sphere!1. Exists q2: sphere!2. And(same_color!1!2 disequal!2!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-19/test/0.json
+
+Candidate: c2
+Concept: Exists q0: sphere!0. Forall q1: sphere!1. Exists q2: sphere!2. And(same_color!1!2 same_color!2!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-19/test/0.json
+
+Candidate: c2
+Concept: Exists q0: sphere!0. Forall q1: sphere!1. Exists q2: sphere!2. And(same_color!0!2 same_color!1!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-19/test/0.json
+
+Candidate: c2
+Concept: Exists q0: sphere!0. Forall q1: sphere!1. Exists q2: sphere!2. And(same_color!0!2 disequal!1!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-19/test/0.json
+
+Candidate: c2
+Concept: Exists q0: sphere!0. Forall q1: sphere!1. Exists q2: sphere!2. And(same_color!0!2 same_color!2!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-19/test/0.json
+
+Candidate: c2
+Concept: Exists q0: sphere!0. Forall q1: sphere!1. Exists q2: sphere!2. And(same_color!2!0 disequal!1!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-19/test/0.json
+
+Candidate: c2
+Concept: Exists q0: sphere!0. Forall q1: sphere!1. Exists q2: sphere!2. And(same_color!2!1 disequal!2!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-19/test/0.json
+
+Candidate: c2
+Concept: Exists q0: sphere!0. Forall q1: sphere!1. Exists q2: sphere!2. And(same_color!2!1 disequal!0!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-19/test/0.json
+
+Candidate: c2
+Concept: Exists q0: sphere!0. Forall q1: sphere!1. Exists q2: sphere!2. And(same_color!2!0 same_color!2!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-19/test/0.json
+
+Candidate: c2
+Concept: Exists q0: sphere!0. Forall q1: sphere!1. Exists q2: sphere!2. And(same_color!2!1 right!2!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-19/test/0.json
+
+Candidate: c2
+Concept: Exists q0: sphere!0. Forall q1: sphere!1. Exists q2: sphere!2. And(same_color!1!2 right!2!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-19/test/0.json
+
+Candidate: c2
+Concept: Exists q0: sphere!0. Forall q1: sphere!1. Exists q2: sphere!2. And(left!0!2 same_color!1!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-19/test/0.json
+
+Candidate: c2
+Concept: Exists q0: sphere!0. Forall q1: sphere!1. Exists q2: sphere!2. And(left!0!2 same_color!2!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-19/test/0.json
+
+Candidate: c2
+Concept: Exists q0: sphere!0. Forall q1: sphere!1. Exists q2: sphere!2. And(same_color!2!0 disequal!2!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-19/test/0.json
+
+Candidate: c2
+Concept: Exists q0: sphere!0. Forall q1: sphere!1. Exists q2: sphere!2. And(same_color!0!2 disequal!2!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-19/test/0.json
+
+Candidate: c2
+Concept: Exists q0: sphere!0. Forall q1: sphere!1. Exists q2: sphere!2. And(left!2!0 same_color!2!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-19/test/0.json
+
+Candidate: c2
+Concept: Exists q0: sphere!0. Forall q1: sphere!1. Exists q2: sphere!2. And(same_color!2!1 right!0!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-19/test/0.json
+
+Candidate: c2
+Concept: Exists q0: sphere!0. Forall q1: sphere!1. Exists q2: sphere!2. And(left!2!0 same_color!1!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-19/test/0.json
+
+Candidate: c2
+Concept: Exists q0: sphere!0. Forall q1: sphere!1. Exists q2: sphere!2. And(same_color!1!2 right!0!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-19/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Forall q1: sphere!1. Exists q2: sphere!2. And(same_color!2!0 disequal!1!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-19/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Forall q1: sphere!1. Exists q2: sphere!2. And(same_color!0!2 disequal!1!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-19/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Forall q1: sphere!1. Exists q2: sphere!2. And(same_color!2!0 disequal!2!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-19/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Forall q1: sphere!1. Exists q2: sphere!2. And(same_color!0!2 disequal!2!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-19/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Forall q1: sphere!1. Exists q2: sphere!2. And(same_color!2!1 disequal!2!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-19/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Forall q1: sphere!1. Exists q2: sphere!2. And(same_color!2!1 disequal!0!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-19/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Forall q1: sphere!1. Exists q2: sphere!2. And(same_color!2!0 same_color!2!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-19/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Forall q1: sphere!1. Exists q2: sphere!2. And(same_color!0!2 same_color!2!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-19/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Forall q1: sphere!1. Exists q2: sphere!2. And(same_color!1!2 disequal!2!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-19/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Forall q1: sphere!1. Exists q2: sphere!2. And(same_color!1!2 disequal!0!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-19/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Forall q1: sphere!1. Exists q2: sphere!2. And(same_color!1!2 same_color!2!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-19/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Forall q1: sphere!1. Exists q2: sphere!2. And(same_color!0!2 same_color!1!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-19/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Exists q1: sphere!1. Exists q2: sphere!2. And(left!2!1 same_color!0!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-19/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Exists q1: sphere!1. Exists q2: sphere!2. And(left!2!1 same_color!1!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-19/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Exists q1: sphere!1. Exists q2: sphere!2. And(same_color!0!1 right!1!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-19/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Exists q1: sphere!1. Exists q2: sphere!2. And(same_color!1!0 right!1!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-19/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Exists q1: sphere!1. Exists q2: sphere!2. And(same_color!2!0 right!1!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-19/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Exists q1: sphere!1. Exists q2: sphere!2. And(same_color!0!2 right!1!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-19/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Exists q1: sphere!1. Exists q2: sphere!2. And(left!2!1 same_color!0!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-19/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Exists q1: sphere!1. Exists q2: sphere!2. And(left!1!2 same_color!2!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-19/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Exists q1: sphere!1. Exists q2: sphere!2. And(left!1!2 same_color!0!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-19/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Exists q1: sphere!1. Exists q2: sphere!2. And(left!1!2 same_color!0!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-19/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Exists q1: sphere!1. Exists q2: sphere!2. And(same_color!2!0 right!2!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-19/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Exists q1: sphere!1. Exists q2: sphere!2. And(same_color!0!2 right!2!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-19/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Exists q1: sphere!1. Exists q2: sphere!2. And(same_color!1!0 right!2!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-19/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Exists q1: sphere!1. Exists q2: sphere!2. And(same_color!0!1 right!2!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-19/test/0.json
+
+No discriminator found for puzzle /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/threepack-fovariant-19.
+The scores were [0.03219491057557204, 0.027464107956655968, 0.038243118974625435].
+Best concept is @ idx 1 ie: /home/ubuntu/vdp-tool-chain-repo/data/output/images/threepack-fovariant-19/CLEVR_threepack-fovariant-19_000001.png

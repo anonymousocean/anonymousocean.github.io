@@ -1,0 +1,35 @@
+Candidate: c2
+Concept: Exists q0: cube!0. Exists q1: cube!1. And(brown!1 left!0!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/alternate-color-fovariant-0/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Exists q1: cube!1. And(cyan!0 left!0!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/alternate-color-fovariant-0/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Exists q1: cube!1. And(right!1!0 cyan!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/alternate-color-fovariant-0/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Exists q1: cube!1. And(right!0!1 cyan!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/alternate-color-fovariant-0/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Exists q1: cube!1. And(cyan!1 left!1!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/alternate-color-fovariant-0/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Exists q1: cube!1. And(brown!0 left!1!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/alternate-color-fovariant-0/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Exists q1: cube!1. And(right!0!1 brown!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/alternate-color-fovariant-0/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Exists q1: cube!1. And(right!1!0 brown!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/alternate-color-fovariant-0/test/0.json
+
+No discriminator found for puzzle /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/alternate-color-fovariant-0.
+The scores were [0.022176277135467153, 0.033540472220967614, 0.03994853831526938].
+Best concept is @ idx 0 ie: /home/ubuntu/vdp-tool-chain-repo/data/output/images/alternate-color-fovariant-0/CLEVR_alternate-color-fovariant-0_000000.png

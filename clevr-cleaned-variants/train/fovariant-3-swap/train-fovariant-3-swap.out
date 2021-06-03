@@ -1,0 +1,35 @@
+Candidate: c2
+Concept: Forall q0: cube!0. Exists q1: cylinder!1. And(right!0!1 metal!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/train-fovariant-3-swap/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cube!0. Exists q1: cylinder!1. And(metal!1 left!1!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/train-fovariant-3-swap/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cylinder!0. Forall q1: cube!1. And(metal!0 left!0!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/train-fovariant-3-swap/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cylinder!0. Forall q1: cube!1. And(right!1!0 metal!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/train-fovariant-3-swap/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cube!0. Forall q1: cylinder!1. And(metal!1 left!1!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/train-fovariant-3-swap/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cube!0. Forall q1: cylinder!1. And(right!0!1 metal!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/train-fovariant-3-swap/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cylinder!0. Forall q1: cube!1. And(metal!0 left!0!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/train-fovariant-3-swap/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cylinder!0. Forall q1: cube!1. And(right!1!0 metal!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/train-fovariant-3-swap/test/0.json
+
+No discriminator found for puzzle /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/train-fovariant-3-swap.
+The scores were [0.018001185722435063, 0.014066886164043921, 0.04462535085867643].
+Best concept is @ idx 1 ie: /home/ubuntu/vdp-tool-chain-repo/data/output/images/train-fovariant-3-swap/CLEVR_train-fovariant-3-swap_000001.png

@@ -1,0 +1,51 @@
+Candidate: c2
+Concept: Exists q0: cylinder!0. Forall q1: cylinder!1. Exists q2: sphere!2. And(right!1!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/aphaeresis-fovariant-6/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cylinder!0. Forall q1: cylinder!1. Exists q2: sphere!2. And(left!2!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/aphaeresis-fovariant-6/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cylinder!0. Exists q1: sphere!1. Forall q2: cylinder!2. And(left!1!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/aphaeresis-fovariant-6/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cylinder!0. Exists q1: sphere!1. Forall q2: cylinder!2. And(right!2!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/aphaeresis-fovariant-6/test/0.json
+
+Candidate: c2
+Concept: Exists q0: sphere!0. Exists q1: cylinder!1. Forall q2: cylinder!2. And(left!0!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/aphaeresis-fovariant-6/test/0.json
+
+Candidate: c2
+Concept: Exists q0: sphere!0. Exists q1: cylinder!1. Forall q2: cylinder!2. And(right!2!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/aphaeresis-fovariant-6/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Exists q1: cylinder!1. Forall q2: cylinder!2. And(right!2!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/aphaeresis-fovariant-6/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Exists q1: cylinder!1. Forall q2: cylinder!2. And(left!0!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/aphaeresis-fovariant-6/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cylinder!0. Forall q1: sphere!1. Forall q2: cylinder!2. And(left!1!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/aphaeresis-fovariant-6/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cylinder!0. Forall q1: sphere!1. Forall q2: cylinder!2. And(right!2!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/aphaeresis-fovariant-6/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cylinder!0. Forall q1: cylinder!1. Forall q2: sphere!2. And(left!2!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/aphaeresis-fovariant-6/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cylinder!0. Forall q1: cylinder!1. Forall q2: sphere!2. And(right!1!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/aphaeresis-fovariant-6/test/0.json
+
+No discriminator found for puzzle /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/aphaeresis-fovariant-6.
+The scores were [0.2875042115412832, 0.2995617681954627, 0.010644019082745527].
+Best concept is @ idx 2 ie: /home/ubuntu/vdp-tool-chain-repo/data/output/images/aphaeresis-fovariant-6/CLEVR_aphaeresis-fovariant-6_000002.png

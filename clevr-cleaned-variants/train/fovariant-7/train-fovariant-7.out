@@ -1,0 +1,35 @@
+Candidate: c2
+Concept: Forall q0: cube!0. Exists q1: sphere!1. And(metal!1 left!1!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/train-fovariant-7/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cube!0. Exists q1: sphere!1. And(metal!1 right!0!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/train-fovariant-7/test/0.json
+
+Candidate: c2
+Concept: Exists q0: sphere!0. Forall q1: cube!1. And(metal!0 right!1!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/train-fovariant-7/test/0.json
+
+Candidate: c2
+Concept: Exists q0: sphere!0. Forall q1: cube!1. And(metal!0 left!0!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/train-fovariant-7/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cube!0. Forall q1: sphere!1. And(metal!1 right!0!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/train-fovariant-7/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cube!0. Forall q1: sphere!1. And(metal!1 left!1!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/train-fovariant-7/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Forall q1: cube!1. And(metal!0 left!0!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/train-fovariant-7/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Forall q1: cube!1. And(metal!0 right!1!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/train-fovariant-7/test/0.json
+
+No discriminator found for puzzle /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/train-fovariant-7.
+The scores were [0.0023087075587538766, 0.0011711240516923235, 0.004448299772359154].
+Best concept is @ idx 1 ie: /home/ubuntu/vdp-tool-chain-repo/data/output/images/train-fovariant-7/CLEVR_train-fovariant-7_000001.png

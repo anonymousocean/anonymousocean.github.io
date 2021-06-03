@@ -1,0 +1,103 @@
+Candidate: c2
+Concept: Forall q0: cylinder!0. Exists q1: sphere!1. Exists q2: sphere!2. And(left!0!1 left!1!2 right!2!1 metal!2 disequal!2!1 rubber!0 rubber!1 same_size!1!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-17-swap/test/0.json
+
+Candidate: c2
+Concept: Exists q0: sphere!0. Exists q1: sphere!1. Forall q2: cylinder!2. And(left!2!1 right!0!1 metal!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-17-swap/test/0.json
+
+Candidate: c2
+Concept: Exists q0: sphere!0. Exists q1: sphere!1. Forall q2: cylinder!2. And(right!0!1 right!1!2 metal!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-17-swap/test/0.json
+
+Candidate: c2
+Concept: Exists q0: sphere!0. Exists q1: sphere!1. Forall q2: cylinder!2. And(left!0!1 right!0!2 metal!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-17-swap/test/0.json
+
+Candidate: c2
+Concept: Exists q0: sphere!0. Exists q1: sphere!1. Forall q2: cylinder!2. And(left!0!1 left!2!0 metal!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-17-swap/test/0.json
+
+Candidate: c2
+Concept: Exists q0: sphere!0. Exists q1: sphere!1. Forall q2: cylinder!2. And(right!0!2 right!1!0 metal!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-17-swap/test/0.json
+
+Candidate: c2
+Concept: Exists q0: sphere!0. Exists q1: sphere!1. Forall q2: cylinder!2. And(left!2!0 right!1!0 metal!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-17-swap/test/0.json
+
+Candidate: c2
+Concept: Exists q0: sphere!0. Exists q1: sphere!1. Forall q2: cylinder!2. And(left!1!0 left!2!1 metal!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-17-swap/test/0.json
+
+Candidate: c2
+Concept: Exists q0: sphere!0. Exists q1: sphere!1. Forall q2: cylinder!2. And(left!1!0 right!1!2 metal!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-17-swap/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cylinder!0. Exists q1: sphere!1. Exists q2: sphere!2. And(left!0!1 left!1!2 metal!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-17-swap/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cylinder!0. Exists q1: sphere!1. Exists q2: sphere!2. And(left!1!2 right!1!0 metal!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-17-swap/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cylinder!0. Exists q1: sphere!1. Exists q2: sphere!2. And(left!0!1 right!2!1 metal!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-17-swap/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cylinder!0. Exists q1: sphere!1. Exists q2: sphere!2. And(right!1!0 right!2!1 metal!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-17-swap/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cylinder!0. Exists q1: sphere!1. Exists q2: sphere!2. And(left!0!2 right!1!2 metal!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-17-swap/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cylinder!0. Exists q1: sphere!1. Exists q2: sphere!2. And(right!1!2 right!2!0 metal!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-17-swap/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cylinder!0. Exists q1: sphere!1. Exists q2: sphere!2. And(left!0!2 left!2!1 metal!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-17-swap/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cylinder!0. Exists q1: sphere!1. Exists q2: sphere!2. And(left!2!1 right!2!0 metal!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-17-swap/test/0.json
+
+Candidate: c2
+Concept: Exists q0: sphere!0. Forall q1: cylinder!1. Exists q2: sphere!2. And(left!2!0 right!2!1 metal!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-17-swap/test/0.json
+
+Candidate: c2
+Concept: Exists q0: sphere!0. Forall q1: cylinder!1. Exists q2: sphere!2. And(left!1!2 left!2!0 metal!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-17-swap/test/0.json
+
+Candidate: c2
+Concept: Exists q0: sphere!0. Forall q1: cylinder!1. Exists q2: sphere!2. And(right!0!2 right!2!1 metal!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-17-swap/test/0.json
+
+Candidate: c2
+Concept: Exists q0: sphere!0. Forall q1: cylinder!1. Exists q2: sphere!2. And(left!1!2 right!0!2 metal!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-17-swap/test/0.json
+
+Candidate: c2
+Concept: Exists q0: sphere!0. Forall q1: cylinder!1. Exists q2: sphere!2. And(left!0!2 left!1!0 metal!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-17-swap/test/0.json
+
+Candidate: c2
+Concept: Exists q0: sphere!0. Forall q1: cylinder!1. Exists q2: sphere!2. And(left!1!0 right!2!0 metal!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-17-swap/test/0.json
+
+Candidate: c2
+Concept: Exists q0: sphere!0. Forall q1: cylinder!1. Exists q2: sphere!2. And(right!0!1 right!2!0 metal!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-17-swap/test/0.json
+
+Candidate: c2
+Concept: Exists q0: sphere!0. Forall q1: cylinder!1. Exists q2: sphere!2. And(left!0!2 right!0!1 metal!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-17-swap/test/0.json
+
+No discriminator found for puzzle /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-17-swap.
+The scores were [0.012844898445077052, 0.052821626548375515, 0.9793783373590272].
+Best concept is @ idx 0 ie: /home/ubuntu/vdp-tool-chain-repo/data/output/images/devoicing-fovariant-17-swap/CLEVR_devoicing-fovariant-17-swap_000000.png

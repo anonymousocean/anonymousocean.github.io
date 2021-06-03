@@ -1,0 +1,35 @@
+Candidate: c2
+Concept: Forall q0: sphere!0. Exists q1: cylinder!1. And(metal!1 left!1!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/train-fovariant-14-swap/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Exists q1: cylinder!1. And(right!0!1 metal!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/train-fovariant-14-swap/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cylinder!0. Forall q1: sphere!1. And(metal!0 left!0!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/train-fovariant-14-swap/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cylinder!0. Forall q1: sphere!1. And(right!1!0 metal!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/train-fovariant-14-swap/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cylinder!0. Forall q1: sphere!1. And(metal!0 left!0!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/train-fovariant-14-swap/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cylinder!0. Forall q1: sphere!1. And(right!1!0 metal!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/train-fovariant-14-swap/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Forall q1: cylinder!1. And(metal!1 left!1!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/train-fovariant-14-swap/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Forall q1: cylinder!1. And(right!0!1 metal!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/train-fovariant-14-swap/test/0.json
+
+No discriminator found for puzzle /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/train-fovariant-14-swap.
+The scores were [0.008044672532835098, 0.01430207278528656, 0.013901479168354368].
+Best concept is @ idx 0 ie: /home/ubuntu/vdp-tool-chain-repo/data/output/images/train-fovariant-14-swap/CLEVR_train-fovariant-14-swap_000000.png

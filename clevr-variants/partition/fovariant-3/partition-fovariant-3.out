@@ -1,0 +1,19 @@
+Candidate: c2
+Concept: Forall q0: cylinder!0. Forall q1: sphere!1. And(left!0!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/partition-fovariant-3/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Forall q1: cylinder!1. And(right!0!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/partition-fovariant-3/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Forall q1: cylinder!1. And(left!1!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/partition-fovariant-3/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cylinder!0. Forall q1: sphere!1. And(right!1!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/partition-fovariant-3/test/0.json
+
+No discriminator found for puzzle /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/partition-fovariant-3.
+The scores were [0.02155249857969369, 0.005701049546850192, 0.012450687211440397].
+Best concept is @ idx 1 ie: /home/ubuntu/vdp-tool-chain-repo/data/output/images/partition-fovariant-3/CLEVR_partition-fovariant-3_000001.png

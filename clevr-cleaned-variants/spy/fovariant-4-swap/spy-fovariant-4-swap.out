@@ -1,0 +1,39 @@
+Candidate: c2
+Concept: Exists q0: cylinder!0. Forall q1: sphere!1. And(rubber!0 front!1!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/spy-fovariant-4-swap/test/0.json
+
+Candidate: c2
+Concept: Exists q0: sphere!0. Exists q1: cylinder!1. And(front!0!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/spy-fovariant-4-swap/test/0.json
+
+Candidate: c2
+Concept: Exists q0: sphere!0. Exists q1: cylinder!1. And(behind!1!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/spy-fovariant-4-swap/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cylinder!0. Exists q1: sphere!1. And(behind!0!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/spy-fovariant-4-swap/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cylinder!0. Exists q1: sphere!1. And(front!1!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/spy-fovariant-4-swap/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Exists q1: cylinder!1. And(front!0!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/spy-fovariant-4-swap/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Exists q1: cylinder!1. And(behind!1!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/spy-fovariant-4-swap/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cylinder!0. Forall q1: sphere!1. And(front!1!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/spy-fovariant-4-swap/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cylinder!0. Forall q1: sphere!1. And(behind!0!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/spy-fovariant-4-swap/test/0.json
+
+No discriminator found for puzzle /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/spy-fovariant-4-swap.
+The scores were [0.007840882621355384, 0.005823942172710966, 0.009705147205970946].
+Best concept is @ idx 1 ie: /home/ubuntu/vdp-tool-chain-repo/data/output/images/spy-fovariant-4-swap/CLEVR_spy-fovariant-4-swap_000001.png

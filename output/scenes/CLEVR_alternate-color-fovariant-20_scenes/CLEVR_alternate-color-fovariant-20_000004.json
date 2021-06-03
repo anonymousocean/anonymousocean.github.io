@@ -1,0 +1,95 @@
+{
+  "image_index": 4,
+  "relationships": {
+    "front": [
+      [],
+      []
+    ],
+    "right": [
+      [
+        1
+      ],
+      []
+    ],
+    "left": [
+      [],
+      [
+        0
+      ]
+    ],
+    "behind": [
+      [],
+      []
+    ]
+  },
+  "directions": {
+    "above": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "front": [
+      0.754490315914154,
+      -0.6563112735748291,
+      -0.0
+    ],
+    "behind": [
+      -0.754490315914154,
+      0.6563112735748291,
+      0.0
+    ],
+    "right": [
+      0.6563112735748291,
+      0.7544902563095093,
+      -0.0
+    ],
+    "left": [
+      -0.6563112735748291,
+      -0.7544902563095093,
+      0.0
+    ],
+    "below": [
+      -0.0,
+      -0.0,
+      -1.0
+    ]
+  },
+  "objects": [
+    {
+      "size": "large",
+      "rotation": 0.0,
+      "3d_coords": [
+        -0.8799999952316284,
+        -0.9100000262260437,
+        0.699999988079071
+      ],
+      "material": "rubber",
+      "shape": "cylinder",
+      "color": "yellow",
+      "pixel_coords": [
+        180,
+        129,
+        10.990357398986816
+      ]
+    },
+    {
+      "size": "small",
+      "rotation": 0.0,
+      "3d_coords": [
+        1.1100000143051147,
+        1.0800000429153442,
+        0.3499999940395355
+      ],
+      "material": "metal",
+      "shape": "cylinder",
+      "color": "cyan",
+      "pixel_coords": [
+        314,
+        148,
+        10.98441219329834
+      ]
+    }
+  ],
+  "split": "alternate-color-fovariant-20",
+  "image_filename": "CLEVR_alternate-color-fovariant-20_000004.png"
+}

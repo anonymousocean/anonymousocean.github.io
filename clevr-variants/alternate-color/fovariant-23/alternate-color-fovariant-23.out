@@ -1,0 +1,35 @@
+Candidate: c2
+Concept: Exists q0: cylinder!0. Exists q1: cylinder!1. And(left!1!0 yellow!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/alternate-color-fovariant-23/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cylinder!0. Exists q1: cylinder!1. And(green!1 right!0!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/alternate-color-fovariant-23/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cylinder!0. Exists q1: cylinder!1. And(green!1 left!1!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/alternate-color-fovariant-23/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cylinder!0. Exists q1: cylinder!1. And(right!0!1 yellow!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/alternate-color-fovariant-23/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cylinder!0. Exists q1: cylinder!1. And(green!0 left!0!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/alternate-color-fovariant-23/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cylinder!0. Exists q1: cylinder!1. And(left!0!1 yellow!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/alternate-color-fovariant-23/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cylinder!0. Exists q1: cylinder!1. And(green!0 right!1!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/alternate-color-fovariant-23/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cylinder!0. Exists q1: cylinder!1. And(right!1!0 yellow!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/alternate-color-fovariant-23/test/0.json
+
+No discriminator found for puzzle /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/alternate-color-fovariant-23.
+The scores were [0.00542391085262931, 0.021058439521025082, 0.01242384351463541].
+Best concept is @ idx 0 ie: /home/ubuntu/vdp-tool-chain-repo/data/output/images/alternate-color-fovariant-23/CLEVR_alternate-color-fovariant-23_000000.png

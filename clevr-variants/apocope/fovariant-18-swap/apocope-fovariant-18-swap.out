@@ -1,0 +1,19 @@
+Candidate: c2
+Concept: Forall q0: cylinder!0. Exists q1: sphere!1. And(right!1!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/apocope-fovariant-18-swap/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cylinder!0. Exists q1: sphere!1. And(left!0!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/apocope-fovariant-18-swap/test/0.json
+
+Candidate: c2
+Concept: Exists q0: sphere!0. Forall q1: cylinder!1. And(right!0!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/apocope-fovariant-18-swap/test/0.json
+
+Candidate: c2
+Concept: Exists q0: sphere!0. Forall q1: cylinder!1. And(left!1!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/apocope-fovariant-18-swap/test/0.json
+
+No discriminator found for puzzle /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/apocope-fovariant-18-swap.
+The scores were [0.002828287056859854, 0.005217119650108215, 0.0016388431208958216].
+Best concept is @ idx 2 ie: /home/ubuntu/vdp-tool-chain-repo/data/output/images/apocope-fovariant-18-swap/CLEVR_apocope-fovariant-18-swap_000002.png

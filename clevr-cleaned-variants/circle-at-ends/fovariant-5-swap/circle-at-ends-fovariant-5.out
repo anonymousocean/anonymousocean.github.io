@@ -1,0 +1,99 @@
+Candidate: c2
+Concept: Exists q0: cylinder!0. Exists q1: cylinder!1. Forall q2: sphere!2. And(left!2!1 right!2!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/circle-at-ends-fovariant-5/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cylinder!0. Exists q1: cylinder!1. Forall q2: sphere!2. And(left!1!2 right!0!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/circle-at-ends-fovariant-5/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cylinder!0. Exists q1: cylinder!1. Forall q2: sphere!2. And(right!0!2 right!2!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/circle-at-ends-fovariant-5/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cylinder!0. Exists q1: cylinder!1. Forall q2: sphere!2. And(left!2!0 right!2!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/circle-at-ends-fovariant-5/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cylinder!0. Exists q1: cylinder!1. Forall q2: sphere!2. And(left!1!2 left!2!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/circle-at-ends-fovariant-5/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cylinder!0. Exists q1: cylinder!1. Forall q2: sphere!2. And(left!0!2 right!1!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/circle-at-ends-fovariant-5/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cylinder!0. Exists q1: cylinder!1. Forall q2: sphere!2. And(left!0!2 left!2!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/circle-at-ends-fovariant-5/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cylinder!0. Exists q1: cylinder!1. Forall q2: sphere!2. And(right!1!2 right!2!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/circle-at-ends-fovariant-5/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Exists q1: cylinder!1. Exists q2: cylinder!2. And(left!0!1 right!0!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/circle-at-ends-fovariant-5/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Exists q1: cylinder!1. Exists q2: cylinder!2. And(right!0!2 right!1!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/circle-at-ends-fovariant-5/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Exists q1: cylinder!1. Exists q2: cylinder!2. And(left!0!1 left!2!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/circle-at-ends-fovariant-5/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Exists q1: cylinder!1. Exists q2: cylinder!2. And(left!2!0 right!1!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/circle-at-ends-fovariant-5/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Exists q1: cylinder!1. Exists q2: cylinder!2. And(right!0!1 right!2!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/circle-at-ends-fovariant-5/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Exists q1: cylinder!1. Exists q2: cylinder!2. And(left!1!0 right!2!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/circle-at-ends-fovariant-5/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Exists q1: cylinder!1. Exists q2: cylinder!2. And(left!0!2 right!0!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/circle-at-ends-fovariant-5/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Exists q1: cylinder!1. Exists q2: cylinder!2. And(left!0!2 left!1!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/circle-at-ends-fovariant-5/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cylinder!0. Forall q1: sphere!1. Exists q2: cylinder!2. And(right!0!1 right!1!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/circle-at-ends-fovariant-5/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cylinder!0. Forall q1: sphere!1. Exists q2: cylinder!2. And(left!2!1 right!0!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/circle-at-ends-fovariant-5/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cylinder!0. Forall q1: sphere!1. Exists q2: cylinder!2. And(left!1!0 right!1!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/circle-at-ends-fovariant-5/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cylinder!0. Forall q1: sphere!1. Exists q2: cylinder!2. And(left!1!0 left!2!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/circle-at-ends-fovariant-5/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cylinder!0. Forall q1: sphere!1. Exists q2: cylinder!2. And(left!0!1 left!1!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/circle-at-ends-fovariant-5/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cylinder!0. Forall q1: sphere!1. Exists q2: cylinder!2. And(left!1!2 right!1!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/circle-at-ends-fovariant-5/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cylinder!0. Forall q1: sphere!1. Exists q2: cylinder!2. And(left!0!1 right!2!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/circle-at-ends-fovariant-5/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cylinder!0. Forall q1: sphere!1. Exists q2: cylinder!2. And(right!1!0 right!2!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/circle-at-ends-fovariant-5/test/0.json
+
+No discriminator found for puzzle /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/circle-at-ends-fovariant-5.
+The scores were [0.1543847051634499, 0.15601204230150847, 0.024215262065967705].
+Best concept is @ idx 2 ie: /home/ubuntu/vdp-tool-chain-repo/data/output/images/circle-at-ends-fovariant-5/CLEVR_circle-at-ends-fovariant-5_000002.png

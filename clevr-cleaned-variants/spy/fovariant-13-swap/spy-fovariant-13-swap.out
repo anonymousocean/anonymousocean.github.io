@@ -1,0 +1,39 @@
+Candidate: c2
+Concept: Exists q0: sphere!0. Exists q1: cube!1. And(metal!1 front!1!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/spy-fovariant-13-swap/test/0.json
+
+Candidate: c2
+Concept: Exists q0: sphere!0. Exists q1: cube!1. And(behind!0!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/spy-fovariant-13-swap/test/0.json
+
+Candidate: c2
+Concept: Exists q0: sphere!0. Exists q1: cube!1. And(front!1!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/spy-fovariant-13-swap/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Exists q1: sphere!1. And(front!0!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/spy-fovariant-13-swap/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Exists q1: sphere!1. And(behind!1!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/spy-fovariant-13-swap/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cube!0. Exists q1: sphere!1. And(front!0!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/spy-fovariant-13-swap/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cube!0. Exists q1: sphere!1. And(behind!1!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/spy-fovariant-13-swap/test/0.json
+
+Candidate: c2
+Concept: Exists q0: sphere!0. Forall q1: cube!1. And(front!1!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/spy-fovariant-13-swap/test/0.json
+
+Candidate: c2
+Concept: Exists q0: sphere!0. Forall q1: cube!1. And(behind!0!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/spy-fovariant-13-swap/test/0.json
+
+No discriminator found for puzzle /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/spy-fovariant-13-swap.
+The scores were [0.19282828585983888, 0.18915516782362768, 0.09509225846231492].
+Best concept is @ idx 2 ie: /home/ubuntu/vdp-tool-chain-repo/data/output/images/spy-fovariant-13-swap/CLEVR_spy-fovariant-13-swap_000002.png

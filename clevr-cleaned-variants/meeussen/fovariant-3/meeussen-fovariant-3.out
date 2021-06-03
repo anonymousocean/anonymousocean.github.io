@@ -1,0 +1,19 @@
+Candidate: c2
+Concept: Forall q0: cylinder!0. Exists q1: cube!1. And(red!1 left!0!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/meeussen-fovariant-3/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cylinder!0. Exists q1: cube!1. And(red!1 right!1!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/meeussen-fovariant-3/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Forall q1: cylinder!1. And(red!0 left!1!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/meeussen-fovariant-3/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Forall q1: cylinder!1. And(red!0 right!0!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/meeussen-fovariant-3/test/0.json
+
+No discriminator found for puzzle /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/meeussen-fovariant-3.
+The scores were [0.023045144258495652, 0.027012355550396376, 0.0359163650603608].
+Best concept is @ idx 0 ie: /home/ubuntu/vdp-tool-chain-repo/data/output/images/meeussen-fovariant-3/CLEVR_meeussen-fovariant-3_000000.png

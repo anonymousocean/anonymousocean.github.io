@@ -1,0 +1,15 @@
+Candidate: c2
+Concept: Forall q0: cube!0. Exists q1: cube!1. And(same_size!0!1 same_color!0!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/breaking-fovariant-21-swap/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cube!0. Exists q1: cube!1. And(same_color!1!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/breaking-fovariant-21-swap/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cube!0. Exists q1: cube!1. And(same_color!0!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/breaking-fovariant-21-swap/test/0.json
+
+No discriminator found for puzzle /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/breaking-fovariant-21-swap.
+The scores were [0.03043681485104637, 0.031904325680574386, 0.032853319125099235].
+Best concept is @ idx 0 ie: /home/ubuntu/vdp-tool-chain-repo/data/output/images/breaking-fovariant-21-swap/CLEVR_breaking-fovariant-21-swap_000000.png

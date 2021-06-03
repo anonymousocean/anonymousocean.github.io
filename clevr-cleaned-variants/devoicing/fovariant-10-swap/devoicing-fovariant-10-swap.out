@@ -1,0 +1,295 @@
+Candidate: c2
+Concept: Exists q0: cube!0. Exists q1: cube!1. Forall q2: sphere!2. And(right!0!2 right!1!0 right!1!2 disequal!0!1 disequal!1!0 left!2!1 metal!1 same_size!0!2 same_size!1!2 same_size!2!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/0.json
+
+Candidate: c0
+Concept: Exists q0: cube!0. Exists q1: sphere!1. Forall q2: sphere!2. And(behind!1!0 metal!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/2.json
+
+Candidate: c0
+Concept: Exists q0: cube!0. Exists q1: sphere!1. Forall q2: sphere!2. And(front!0!1 metal!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/2.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Exists q1: cube!1. Forall q2: sphere!2. And(left!0!1 left!2!0 metal!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Exists q1: cube!1. Forall q2: sphere!2. And(right!0!2 left!0!1 metal!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Exists q1: cube!1. Forall q2: sphere!2. And(right!1!0 left!2!0 metal!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Exists q1: cube!1. Forall q2: sphere!2. And(right!0!2 right!1!0 metal!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Exists q1: cube!1. Forall q2: sphere!2. And(right!0!1 right!1!2 metal!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/0.json
+
+Candidate: c0
+Concept: Exists q0: cube!0. Forall q1: cube!1. Exists q2: sphere!2. And(behind!2!0 metal!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/2.json
+
+Candidate: c0
+Concept: Exists q0: cube!0. Forall q1: cube!1. Exists q2: sphere!2. And(front!0!2 metal!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/2.json
+
+Candidate: c0
+Concept: Exists q0: cube!0. Exists q1: sphere!1. Exists q2: cube!2. And(behind!1!0 metal!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/2.json
+
+Candidate: c0
+Concept: Exists q0: cube!0. Exists q1: sphere!1. Exists q2: sphere!2. And(behind!1!0 metal!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/2.json
+
+Candidate: c0
+Concept: Exists q0: cube!0. Exists q1: sphere!1. Exists q2: cube!2. And(front!0!1 metal!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/2.json
+
+Candidate: c0
+Concept: Exists q0: cube!0. Exists q1: sphere!1. Exists q2: sphere!2. And(front!0!1 metal!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/2.json
+
+Candidate: c0
+Concept: Exists q0: cube!0. Exists q1: cube!1. Exists q2: sphere!2. And(behind!2!0 metal!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/2.json
+
+Candidate: c0
+Concept: Exists q0: cube!0. Exists q1: sphere!1. Exists q2: sphere!2. And(behind!2!0 metal!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/2.json
+
+Candidate: c0
+Concept: Exists q0: cube!0. Exists q1: sphere!1. Exists q2: sphere!2. And(front!0!2 metal!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/2.json
+
+Candidate: c0
+Concept: Exists q0: cube!0. Exists q1: cube!1. Exists q2: sphere!2. And(front!0!2 metal!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/2.json
+
+Candidate: c0
+Concept: Exists q0: cube!0. Exists q1: cube!1. Exists q2: sphere!2. And(behind!2!1 metal!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/2.json
+
+Candidate: c0
+Concept: Exists q0: cube!0. Exists q1: cube!1. Exists q2: sphere!2. And(front!1!2 metal!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/2.json
+
+Candidate: c0
+Concept: Exists q0: sphere!0. Exists q1: cube!1. Exists q2: sphere!2. And(behind!2!1 metal!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/2.json
+
+Candidate: c0
+Concept: Exists q0: sphere!0. Exists q1: cube!1. Exists q2: sphere!2. And(front!1!2 metal!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/2.json
+
+Candidate: c0
+Concept: Exists q0: sphere!0. Exists q1: cube!1. Exists q2: sphere!2. And(behind!0!1 metal!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/2.json
+
+Candidate: c0
+Concept: Exists q0: sphere!0. Exists q1: cube!1. Exists q2: sphere!2. And(front!1!0 metal!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/2.json
+
+Candidate: c0
+Concept: Exists q0: sphere!0. Exists q1: cube!1. Exists q2: cube!2. And(behind!0!1 metal!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/2.json
+
+Candidate: c0
+Concept: Exists q0: sphere!0. Exists q1: cube!1. Exists q2: cube!2. And(front!1!0 metal!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/2.json
+
+Candidate: c0
+Concept: Exists q0: sphere!0. Exists q1: sphere!1. Exists q2: cube!2. And(front!2!1 metal!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/2.json
+
+Candidate: c0
+Concept: Exists q0: cube!0. Exists q1: sphere!1. Exists q2: cube!2. And(front!2!1 metal!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/2.json
+
+Candidate: c0
+Concept: Exists q0: sphere!0. Exists q1: sphere!1. Exists q2: cube!2. And(behind!1!2 metal!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/2.json
+
+Candidate: c0
+Concept: Exists q0: cube!0. Exists q1: sphere!1. Exists q2: cube!2. And(behind!1!2 metal!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/2.json
+
+Candidate: c0
+Concept: Exists q0: sphere!0. Exists q1: cube!1. Exists q2: cube!2. And(front!2!0 metal!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/2.json
+
+Candidate: c0
+Concept: Exists q0: sphere!0. Exists q1: cube!1. Exists q2: cube!2. And(behind!0!2 metal!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/2.json
+
+Candidate: c0
+Concept: Exists q0: sphere!0. Exists q1: sphere!1. Exists q2: cube!2. And(front!2!0 metal!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/2.json
+
+Candidate: c0
+Concept: Exists q0: sphere!0. Exists q1: sphere!1. Exists q2: cube!2. And(behind!0!2 metal!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/2.json
+
+Candidate: c0
+Concept: Forall q0: sphere!0. Exists q1: cube!1. Exists q2: sphere!2. And(front!1!2 metal!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/2.json
+
+Candidate: c0
+Concept: Forall q0: sphere!0. Exists q1: cube!1. Exists q2: sphere!2. And(behind!2!1 metal!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/2.json
+
+Candidate: c0
+Concept: Forall q0: cube!0. Exists q1: cube!1. Exists q2: sphere!2. And(behind!2!1 metal!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/2.json
+
+Candidate: c0
+Concept: Forall q0: cube!0. Exists q1: cube!1. Exists q2: sphere!2. And(front!1!2 metal!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/2.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Exists q1: cube!1. Exists q2: cube!2. And(right!2!0 left!2!1 metal!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Exists q1: cube!1. Exists q2: cube!2. And(left!0!2 left!2!1 metal!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Exists q1: cube!1. Exists q2: cube!2. And(right!1!2 right!2!0 metal!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Exists q1: cube!1. Exists q2: cube!2. And(right!1!2 left!0!2 metal!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Exists q1: cube!1. Exists q2: cube!2. And(right!1!0 left!1!2 metal!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Exists q1: cube!1. Exists q2: cube!2. And(right!1!0 right!2!1 metal!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Exists q1: cube!1. Exists q2: cube!2. And(left!0!1 left!1!2 metal!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Exists q1: cube!1. Exists q2: cube!2. And(right!2!1 left!0!1 metal!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/0.json
+
+Candidate: c0
+Concept: Forall q0: sphere!0. Exists q1: sphere!1. Exists q2: cube!2. And(behind!1!2 metal!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/2.json
+
+Candidate: c0
+Concept: Forall q0: cube!0. Exists q1: sphere!1. Exists q2: cube!2. And(behind!1!2 metal!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/2.json
+
+Candidate: c0
+Concept: Forall q0: sphere!0. Exists q1: sphere!1. Exists q2: cube!2. And(front!2!1 metal!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/2.json
+
+Candidate: c0
+Concept: Forall q0: cube!0. Exists q1: sphere!1. Exists q2: cube!2. And(front!2!1 metal!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/2.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Forall q1: sphere!1. Exists q2: cube!2. And(right!2!1 left!2!0 metal!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Forall q1: sphere!1. Exists q2: cube!2. And(right!0!2 right!2!1 metal!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Forall q1: sphere!1. Exists q2: cube!2. And(left!1!2 left!2!0 metal!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Forall q1: sphere!1. Exists q2: cube!2. And(right!0!2 left!1!2 metal!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Forall q1: sphere!1. Exists q2: cube!2. And(left!0!2 left!1!0 metal!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Forall q1: sphere!1. Exists q2: cube!2. And(right!0!1 left!0!2 metal!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Forall q1: sphere!1. Exists q2: cube!2. And(right!2!0 left!1!0 metal!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Forall q1: sphere!1. Exists q2: cube!2. And(right!0!1 right!2!0 metal!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/0.json
+
+Candidate: c0
+Concept: Exists q0: cube!0. Forall q1: sphere!1. Exists q2: sphere!2. And(front!0!2 metal!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/2.json
+
+Candidate: c0
+Concept: Exists q0: cube!0. Forall q1: sphere!1. Exists q2: sphere!2. And(behind!2!0 metal!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/2.json
+
+Candidate: c0
+Concept: Exists q0: sphere!0. Forall q1: cube!1. Exists q2: cube!2. And(front!2!0 metal!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/2.json
+
+Candidate: c0
+Concept: Exists q0: sphere!0. Forall q1: cube!1. Exists q2: cube!2. And(behind!0!2 metal!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/2.json
+
+Candidate: c0
+Concept: Exists q0: sphere!0. Forall q1: sphere!1. Exists q2: cube!2. And(behind!0!2 metal!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/2.json
+
+Candidate: c0
+Concept: Exists q0: sphere!0. Forall q1: sphere!1. Exists q2: cube!2. And(front!2!0 metal!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/2.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Exists q1: cube!1. Forall q2: sphere!2. And(right!0!1 left!2!1 metal!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Exists q1: cube!1. Forall q2: sphere!2. And(left!1!0 left!2!1 metal!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Exists q1: cube!1. Forall q2: sphere!2. And(right!1!2 left!1!0 metal!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/0.json
+
+Candidate: c0
+Concept: Exists q0: sphere!0. Exists q1: cube!1. Forall q2: sphere!2. And(behind!0!1 metal!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/2.json
+
+Candidate: c0
+Concept: Exists q0: sphere!0. Exists q1: cube!1. Forall q2: sphere!2. And(front!1!0 metal!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/2.json
+
+Candidate: c0
+Concept: Exists q0: cube!0. Exists q1: sphere!1. Forall q2: cube!2. And(front!0!1 metal!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/2.json
+
+Candidate: c0
+Concept: Exists q0: cube!0. Exists q1: sphere!1. Forall q2: cube!2. And(behind!1!0 metal!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/2.json
+
+Candidate: c0
+Concept: Exists q0: sphere!0. Exists q1: cube!1. Forall q2: cube!2. And(front!1!0 metal!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/2.json
+
+Candidate: c0
+Concept: Exists q0: sphere!0. Exists q1: cube!1. Forall q2: cube!2. And(behind!0!1 metal!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap/test/2.json
+
+No discriminator found for puzzle /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/devoicing-fovariant-10-swap.
+The scores were [0.016120573474089957, 0.012446536331713826, 0.011463884501352037].
+Best concept is @ idx 2 ie: /home/ubuntu/vdp-tool-chain-repo/data/output/images/devoicing-fovariant-10-swap/CLEVR_devoicing-fovariant-10-swap_000002.png

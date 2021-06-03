@@ -1,0 +1,126 @@
+{
+  "image_index": 4,
+  "relationships": {
+    "right": [
+      [
+        1,
+        2
+      ],
+      [
+        2
+      ],
+      []
+    ],
+    "behind": [
+      [],
+      [],
+      [
+        0
+      ]
+    ],
+    "left": [
+      [],
+      [
+        0
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    "front": [
+      [
+        2
+      ],
+      [],
+      []
+    ]
+  },
+  "image_filename": "CLEVR_circle-at-ends-fovariant-22_000004.png",
+  "directions": {
+    "right": [
+      0.6563112735748291,
+      0.7544902563095093,
+      -0.0
+    ],
+    "below": [
+      -0.0,
+      -0.0,
+      -1.0
+    ],
+    "left": [
+      -0.6563112735748291,
+      -0.7544902563095093,
+      0.0
+    ],
+    "behind": [
+      -0.754490315914154,
+      0.6563112735748291,
+      0.0
+    ],
+    "front": [
+      0.754490315914154,
+      -0.6563112735748291,
+      -0.0
+    ],
+    "above": [
+      0.0,
+      0.0,
+      1.0
+    ]
+  },
+  "objects": [
+    {
+      "rotation": 0.0,
+      "size": "small",
+      "pixel_coords": [
+        145,
+        145,
+        11.127692222595215
+      ],
+      "3d_coords": [
+        -1.350000023841858,
+        -1.5,
+        0.3499999940395355
+      ],
+      "shape": "cube",
+      "color": "yellow",
+      "material": "rubber"
+    },
+    {
+      "rotation": 0.0,
+      "size": "large",
+      "pixel_coords": [
+        247,
+        133,
+        10.822772026062012
+      ],
+      "3d_coords": [
+        0.1899999976158142,
+        0.029999999329447746,
+        0.699999988079071
+      ],
+      "shape": "cylinder",
+      "color": "brown",
+      "material": "metal"
+    },
+    {
+      "rotation": 0.0,
+      "size": "small",
+      "pixel_coords": [
+        347,
+        151,
+        10.86841106414795
+      ],
+      "3d_coords": [
+        1.649999976158142,
+        1.5,
+        0.3499999940395355
+      ],
+      "shape": "cube",
+      "color": "yellow",
+      "material": "rubber"
+    }
+  ],
+  "split": "circle-at-ends-fovariant-22"
+}

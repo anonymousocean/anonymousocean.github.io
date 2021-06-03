@@ -1,0 +1,19 @@
+Candidate: c2
+Concept: Forall q0: cube!0. Forall q1: sphere!1. And(same_color!0!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/assimilation-fovariant-5/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Forall q1: cube!1. And(same_color!0!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/assimilation-fovariant-5/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Forall q1: cube!1. And(same_color!1!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/assimilation-fovariant-5/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cube!0. Forall q1: sphere!1. And(same_color!1!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/assimilation-fovariant-5/test/0.json
+
+No discriminator found for puzzle /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/assimilation-fovariant-5.
+The scores were [0.08835216607022861, 0.05270258118024497, 0.09800016960453967].
+Best concept is @ idx 1 ie: /home/ubuntu/vdp-tool-chain-repo/data/output/images/assimilation-fovariant-5/CLEVR_assimilation-fovariant-5_000001.png

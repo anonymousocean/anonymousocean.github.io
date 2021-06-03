@@ -1,0 +1,19 @@
+Candidate: c2
+Concept: Forall q0: cube!0. Exists q1: cylinder!1. And(right!1!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/alternation-fovariant-8-swap/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cube!0. Exists q1: cylinder!1. And(left!0!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/alternation-fovariant-8-swap/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cylinder!0. Forall q1: cube!1. And(right!0!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/alternation-fovariant-8-swap/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cylinder!0. Forall q1: cube!1. And(left!1!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/alternation-fovariant-8-swap/test/0.json
+
+No discriminator found for puzzle /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/alternation-fovariant-8-swap.
+The scores were [0.03415109382822074, 0.10679301487049697, 0.04233433832742124].
+Best concept is @ idx 0 ie: /home/ubuntu/vdp-tool-chain-repo/data/output/images/alternation-fovariant-8-swap/CLEVR_alternation-fovariant-8-swap_000000.png

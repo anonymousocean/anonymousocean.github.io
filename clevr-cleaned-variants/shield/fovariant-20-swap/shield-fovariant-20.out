@@ -1,0 +1,19 @@
+Candidate: c2
+Concept: Exists q0: cylinder!0. Forall q1: cube!1. And(left!1!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/shield-fovariant-20/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cylinder!0. Forall q1: cube!1. And(right!0!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/shield-fovariant-20/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cube!0. Exists q1: cylinder!1. And(right!1!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/shield-fovariant-20/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cube!0. Exists q1: cylinder!1. And(left!0!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/shield-fovariant-20/test/0.json
+
+No discriminator found for puzzle /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/shield-fovariant-20.
+The scores were [0.5730826418879211, 0.4663713633450276, 0.31979215198631794].
+Best concept is @ idx 2 ie: /home/ubuntu/vdp-tool-chain-repo/data/output/images/shield-fovariant-20/CLEVR_shield-fovariant-20_000002.png

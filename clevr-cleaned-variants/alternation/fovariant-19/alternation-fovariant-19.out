@@ -1,0 +1,19 @@
+Candidate: c2
+Concept: Forall q0: sphere!0. Exists q1: cube!1. And(right!1!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/alternation-fovariant-19/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Exists q1: cube!1. And(left!0!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/alternation-fovariant-19/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Forall q1: sphere!1. And(left!1!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/alternation-fovariant-19/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Forall q1: sphere!1. And(right!0!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/alternation-fovariant-19/test/0.json
+
+No discriminator found for puzzle /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/alternation-fovariant-19.
+The scores were [0.054755722804881626, 0.12156016610167619, 0.03590751073142807].
+Best concept is @ idx 2 ie: /home/ubuntu/vdp-tool-chain-repo/data/output/images/alternation-fovariant-19/CLEVR_alternation-fovariant-19_000002.png

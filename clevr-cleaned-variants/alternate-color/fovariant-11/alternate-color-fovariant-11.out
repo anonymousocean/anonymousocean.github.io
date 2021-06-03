@@ -1,0 +1,35 @@
+Candidate: c2
+Concept: Exists q0: cylinder!0. Exists q1: cylinder!1. And(right!1!0 green!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/alternate-color-fovariant-11/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cylinder!0. Exists q1: cylinder!1. And(right!1!0 cyan!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/alternate-color-fovariant-11/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cylinder!0. Exists q1: cylinder!1. And(left!0!1 green!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/alternate-color-fovariant-11/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cylinder!0. Exists q1: cylinder!1. And(cyan!1 left!0!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/alternate-color-fovariant-11/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cylinder!0. Exists q1: cylinder!1. And(left!1!0 green!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/alternate-color-fovariant-11/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cylinder!0. Exists q1: cylinder!1. And(cyan!0 left!1!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/alternate-color-fovariant-11/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cylinder!0. Exists q1: cylinder!1. And(right!0!1 cyan!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/alternate-color-fovariant-11/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cylinder!0. Exists q1: cylinder!1. And(right!0!1 green!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/alternate-color-fovariant-11/test/0.json
+
+No discriminator found for puzzle /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/alternate-color-fovariant-11.
+The scores were [0.003675571342223793, 0.02383014203447297, 0.004336296385821129].
+Best concept is @ idx 0 ie: /home/ubuntu/vdp-tool-chain-repo/data/output/images/alternate-color-fovariant-11/CLEVR_alternate-color-fovariant-11_000000.png

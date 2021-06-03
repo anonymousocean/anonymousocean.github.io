@@ -1,0 +1,15 @@
+Candidate: c2
+Concept: Forall q0: cylinder!0. Exists q1: cylinder!1. And(same_color!1!0 disequal!0!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/breaking-fovariant-23/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cylinder!0. Exists q1: cylinder!1. And(same_color!0!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/breaking-fovariant-23/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cylinder!0. Exists q1: cylinder!1. And(same_color!1!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/breaking-fovariant-23/test/0.json
+
+No discriminator found for puzzle /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/breaking-fovariant-23.
+The scores were [0.004487240256050206, 0.0022980342851534295, 0.005389764447882977].
+Best concept is @ idx 1 ie: /home/ubuntu/vdp-tool-chain-repo/data/output/images/breaking-fovariant-23/CLEVR_breaking-fovariant-23_000001.png

@@ -1,0 +1,99 @@
+Candidate: c2
+Concept: Forall q0: sphere!0. Exists q1: cube!1. Exists q2: cube!2. And(right!0!1 left!0!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/agreement-fovariant-4/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Exists q1: cube!1. Exists q2: cube!2. And(right!0!2 left!0!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/agreement-fovariant-4/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Exists q1: cube!1. Exists q2: cube!2. And(right!0!2 right!1!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/agreement-fovariant-4/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Exists q1: cube!1. Exists q2: cube!2. And(right!1!0 left!2!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/agreement-fovariant-4/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Exists q1: cube!1. Exists q2: cube!2. And(left!0!1 left!2!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/agreement-fovariant-4/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Exists q1: cube!1. Exists q2: cube!2. And(right!0!1 right!2!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/agreement-fovariant-4/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Exists q1: cube!1. Exists q2: cube!2. And(right!2!0 left!1!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/agreement-fovariant-4/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Exists q1: cube!1. Exists q2: cube!2. And(left!0!2 left!1!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/agreement-fovariant-4/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Forall q1: sphere!1. Exists q2: cube!2. And(right!1!2 left!1!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/agreement-fovariant-4/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Forall q1: sphere!1. Exists q2: cube!2. And(right!0!1 right!1!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/agreement-fovariant-4/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Forall q1: sphere!1. Exists q2: cube!2. And(left!1!0 left!2!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/agreement-fovariant-4/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Forall q1: sphere!1. Exists q2: cube!2. And(right!0!1 left!2!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/agreement-fovariant-4/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Forall q1: sphere!1. Exists q2: cube!2. And(right!1!0 left!1!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/agreement-fovariant-4/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Forall q1: sphere!1. Exists q2: cube!2. And(right!1!0 right!2!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/agreement-fovariant-4/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Forall q1: sphere!1. Exists q2: cube!2. And(left!0!1 left!1!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/agreement-fovariant-4/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Forall q1: sphere!1. Exists q2: cube!2. And(right!2!1 left!0!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/agreement-fovariant-4/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Exists q1: cube!1. Forall q2: sphere!2. And(right!0!2 left!1!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/agreement-fovariant-4/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Exists q1: cube!1. Forall q2: sphere!2. And(right!2!0 left!2!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/agreement-fovariant-4/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Exists q1: cube!1. Forall q2: sphere!2. And(right!1!2 right!2!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/agreement-fovariant-4/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Exists q1: cube!1. Forall q2: sphere!2. And(right!0!2 right!2!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/agreement-fovariant-4/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Exists q1: cube!1. Forall q2: sphere!2. And(left!0!2 left!2!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/agreement-fovariant-4/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Exists q1: cube!1. Forall q2: sphere!2. And(right!1!2 left!0!2)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/agreement-fovariant-4/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Exists q1: cube!1. Forall q2: sphere!2. And(left!1!2 left!2!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/agreement-fovariant-4/test/0.json
+
+Candidate: c2
+Concept: Exists q0: cube!0. Exists q1: cube!1. Forall q2: sphere!2. And(right!2!1 left!2!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/agreement-fovariant-4/test/0.json
+
+No discriminator found for puzzle /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/agreement-fovariant-4.
+The scores were [0.21991548922866794, 0.18434510687225544, 0.23160494398698822].
+Best concept is @ idx 1 ie: /home/ubuntu/vdp-tool-chain-repo/data/output/images/agreement-fovariant-4/CLEVR_agreement-fovariant-4_000001.png

@@ -1,0 +1,19 @@
+Candidate: c2
+Concept: Forall q0: cylinder!0. Forall q1: sphere!1. And(same_color!0!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/assimilation-fovariant-22-swap/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Forall q1: cylinder!1. And(same_color!0!1)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/assimilation-fovariant-22-swap/test/0.json
+
+Candidate: c2
+Concept: Forall q0: sphere!0. Forall q1: cylinder!1. And(same_color!1!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/assimilation-fovariant-22-swap/test/0.json
+
+Candidate: c2
+Concept: Forall q0: cylinder!0. Forall q1: sphere!1. And(same_color!1!0)
+Candidate Name: /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/assimilation-fovariant-22-swap/test/0.json
+
+No discriminator found for puzzle /home/ubuntu/vdp-tool-chain-repo/data/inference-outputs/assimilation-fovariant-22-swap.
+The scores were [0.06479778518045058, 0.13570280457074532, 0.1282132580088522].
+Best concept is @ idx 0 ie: /home/ubuntu/vdp-tool-chain-repo/data/output/images/assimilation-fovariant-22-swap/CLEVR_assimilation-fovariant-22-swap_000000.png

@@ -1,0 +1,126 @@
+{
+  "objects": [
+    {
+      "color": "yellow",
+      "size": "large",
+      "3d_coords": [
+        -1.5,
+        -1.5,
+        0.699999988079071
+      ],
+      "pixel_coords": [
+        140,
+        127,
+        11.061274528503418
+      ],
+      "shape": "sphere",
+      "material": "rubber",
+      "rotation": 0.0
+    },
+    {
+      "color": "yellow",
+      "size": "small",
+      "3d_coords": [
+        0.0,
+        0.0,
+        0.3499999940395355
+      ],
+      "pixel_coords": [
+        240,
+        145,
+        11.097678184509277
+      ],
+      "shape": "cube",
+      "material": "rubber",
+      "rotation": 0.0
+    },
+    {
+      "color": "yellow",
+      "size": "large",
+      "3d_coords": [
+        1.5,
+        1.5,
+        0.699999988079071
+      ],
+      "pixel_coords": [
+        343,
+        133,
+        10.801993370056152
+      ],
+      "shape": "sphere",
+      "material": "rubber",
+      "rotation": 0.0
+    }
+  ],
+  "directions": {
+    "front": [
+      0.754490315914154,
+      -0.6563112735748291,
+      -0.0
+    ],
+    "above": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "behind": [
+      -0.754490315914154,
+      0.6563112735748291,
+      0.0
+    ],
+    "right": [
+      0.6563112735748291,
+      0.7544902563095093,
+      -0.0
+    ],
+    "left": [
+      -0.6563112735748291,
+      -0.7544902563095093,
+      0.0
+    ],
+    "below": [
+      -0.0,
+      -0.0,
+      -1.0
+    ]
+  },
+  "image_filename": "CLEVR_circle-at-ends_000005.png",
+  "split": "circle-at-ends",
+  "image_index": 5,
+  "relationships": {
+    "front": [
+      [
+        2
+      ],
+      [],
+      []
+    ],
+    "behind": [
+      [],
+      [],
+      [
+        0
+      ]
+    ],
+    "right": [
+      [
+        1,
+        2
+      ],
+      [
+        2
+      ],
+      []
+    ],
+    "left": [
+      [],
+      [
+        0
+      ],
+      [
+        0,
+        1
+      ]
+    ]
+  }
+}

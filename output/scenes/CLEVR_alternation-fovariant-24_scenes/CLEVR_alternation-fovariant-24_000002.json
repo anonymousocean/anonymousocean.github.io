@@ -1,0 +1,95 @@
+{
+  "split": "alternation-fovariant-24",
+  "image_filename": "CLEVR_alternation-fovariant-24_000002.png",
+  "image_index": 2,
+  "directions": {
+    "left": [
+      -0.6563112735748291,
+      -0.7544902563095093,
+      0.0
+    ],
+    "front": [
+      0.754490315914154,
+      -0.6563112735748291,
+      -0.0
+    ],
+    "behind": [
+      -0.754490315914154,
+      0.6563112735748291,
+      0.0
+    ],
+    "above": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "right": [
+      0.6563112735748291,
+      0.7544902563095093,
+      -0.0
+    ],
+    "below": [
+      -0.0,
+      -0.0,
+      -1.0
+    ]
+  },
+  "relationships": {
+    "left": [
+      [],
+      [
+        0
+      ]
+    ],
+    "front": [
+      [],
+      []
+    ],
+    "right": [
+      [
+        1
+      ],
+      []
+    ],
+    "behind": [
+      [],
+      []
+    ]
+  },
+  "objects": [
+    {
+      "3d_coords": [
+        -2.130000114440918,
+        -2.0,
+        0.699999988079071
+      ],
+      "material": "metal",
+      "shape": "cylinder",
+      "rotation": 0.0,
+      "color": "cyan",
+      "pixel_coords": [
+        104,
+        125,
+        11.190831184387207
+      ],
+      "size": "large"
+    },
+    {
+      "3d_coords": [
+        -0.10999999940395355,
+        0.019999999552965164,
+        0.699999988079071
+      ],
+      "material": "metal",
+      "shape": "sphere",
+      "rotation": 0.0,
+      "color": "gray",
+      "pixel_coords": [
+        237,
+        128,
+        11.01624870300293
+      ],
+      "size": "large"
+    }
+  ]
+}

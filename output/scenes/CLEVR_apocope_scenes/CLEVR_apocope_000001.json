@@ -1,0 +1,161 @@
+{
+  "directions": {
+    "right": [
+      0.6563112735748291,
+      0.7544902563095093,
+      -0.0
+    ],
+    "behind": [
+      -0.754490315914154,
+      0.6563112735748291,
+      0.0
+    ],
+    "left": [
+      -0.6563112735748291,
+      -0.7544902563095093,
+      0.0
+    ],
+    "below": [
+      -0.0,
+      -0.0,
+      -1.0
+    ],
+    "front": [
+      0.754490315914154,
+      -0.6563112735748291,
+      -0.0
+    ],
+    "above": [
+      0.0,
+      0.0,
+      1.0
+    ]
+  },
+  "objects": [
+    {
+      "shape": "cylinder",
+      "rotation": 0.0,
+      "color": "red",
+      "size": "large",
+      "material": "rubber",
+      "3d_coords": [
+        -2.25,
+        -2.25,
+        0.699999988079071
+      ],
+      "pixel_coords": [
+        90,
+        126,
+        11.126094818115234
+      ]
+    },
+    {
+      "shape": "sphere",
+      "rotation": 0.0,
+      "color": "green",
+      "size": "small",
+      "material": "rubber",
+      "3d_coords": [
+        -1.0,
+        -1.0,
+        0.3499999940395355
+      ],
+      "pixel_coords": [
+        174,
+        143,
+        11.18410587310791
+      ]
+    },
+    {
+      "shape": "cylinder",
+      "rotation": 0.0,
+      "color": "red",
+      "size": "large",
+      "material": "rubber",
+      "3d_coords": [
+        1.0,
+        1.0,
+        0.699999988079071
+      ],
+      "pixel_coords": [
+        308,
+        132,
+        10.845206260681152
+      ]
+    },
+    {
+      "shape": "sphere",
+      "rotation": 0.0,
+      "color": "green",
+      "size": "small",
+      "material": "rubber",
+      "3d_coords": [
+        2.25,
+        2.25,
+        0.3499999940395355
+      ],
+      "pixel_coords": [
+        393,
+        150,
+        10.903217315673828
+      ]
+    }
+  ],
+  "split": "apocope",
+  "image_filename": "CLEVR_apocope_000001.png",
+  "image_index": 1,
+  "relationships": {
+    "right": [
+      [
+        1,
+        2,
+        3
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3
+      ],
+      []
+    ],
+    "behind": [
+      [],
+      [],
+      [
+        0
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    "left": [
+      [],
+      [
+        0
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1,
+        2
+      ]
+    ],
+    "front": [
+      [
+        2,
+        3
+      ],
+      [
+        3
+      ],
+      [],
+      []
+    ]
+  }
+}
